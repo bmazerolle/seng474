@@ -1,0 +1,9 @@
+# Mac hidden folder
+.DS_Store
+
+#Unpacked CSV directory
+data/vehicleCSV/*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
